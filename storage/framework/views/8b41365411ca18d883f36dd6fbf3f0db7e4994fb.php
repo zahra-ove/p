@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\pansion_fatemepc\resources\views/admin/master/content.blade.php ENDPATH**/ ?>
